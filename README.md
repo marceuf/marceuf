@@ -16,4 +16,4 @@
     <img alain="center" alt="html5"src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </div><br/>
 
-### Entusiasta em Tecnlogia Cloud.
+### Entusiasta em Tecnologia.
